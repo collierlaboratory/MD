@@ -12,10 +12,8 @@ educ15,educ18,educ25,eduback2,educ16
 4,4,3,high school diploma,3
 3,3,2,NA,3
 4,4,4,high school diploma,4
-4,4,3,high school diploma,3
 4,4,3,GED,4
 3,3,2,high school diploma,3
-3,3,4,high school diploma,3
 3,3,3,high school diploma,3
 3,3,3,BA,3
 3,3,3,high school diploma,3
@@ -776,7 +774,3 @@ NA,2,2,high school diploma,NA
 4,4,4,GED,4
 4,4,3,high school diploma,4
 3,3,3,high school diploma,2
-4,3,3,high school diploma,4
-4,4,4,high school diploma,4
-3,3,2,NA,3
-3,3,2,NA,3
