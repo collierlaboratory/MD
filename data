@@ -1,0 +1,782 @@
+educ15,educ18,educ25,eduback2,educ16
+2,2,3,GED,2
+3,3,3,Other,3
+3,3,2,high school diploma,3
+3,1,2,GED,3
+3,4,4,GED,3
+2,2,2,Other,2
+3,2,2,Other,2
+2,4,4,high school diploma,3
+1,4,1,NA,1
+3,4,4,high school diploma,3
+4,4,3,high school diploma,3
+3,3,2,NA,3
+4,4,4,high school diploma,4
+4,4,3,high school diploma,3
+4,4,3,GED,4
+3,3,2,high school diploma,3
+3,3,4,high school diploma,3
+3,3,3,high school diploma,3
+3,3,3,BA,3
+3,3,3,high school diploma,3
+3,3,3,GED,NA
+3,3,2,high school diploma,3
+3,4,3,high school diploma,3
+3,3,3,high school diploma,3
+3,4,1,GED,2
+2,1,2,high school diploma,2
+1,2,2,NA,2
+3,3,3,NA,3
+1,3,1,high school diploma,2
+3,3,3,Other,3
+2,2,2,high school diploma,2
+3,3,3,GED,3
+2,3,2,NA,3
+3,3,3,high school diploma,3
+4,4,2,high school diploma,3
+4,3,3,GED,3
+2,1,3,GED,3
+1,1,2,GED,1
+3,3,3,GED,3
+2,2,2,high school diploma,2
+3,3,3,NA,3
+2,2,1,high school diploma,2
+4,4,4,high school diploma,4
+4,4,4,high school diploma,3
+3,4,3,GED,3
+1,2,2,GED,2
+3,2,3,NA,3
+3,3,2,high school diploma,3
+2,2,2,GED,2
+3,3,3,high school diploma,3
+2,2,2,NA,1
+3,4,3,high school diploma,3
+3,3,2,GED,3
+3,4,3,Other,3
+3,3,3,GED,3
+4,3,3,NA,4
+2,3,2,NA,2
+2,3,2,GED,2
+3,3,3,Other,3
+2,1,1,GED,1
+2,2,2,NA,2
+3,3,3,Other,3
+2,3,2,high school diploma,2
+3,4,2,NA,2
+2,1,2,high school diploma,2
+3,3,3,NA,3
+4,4,4,high school diploma,4
+3,2,2,GED,3
+3,4,3,Other,2
+2,3,2,high school diploma,2
+4,4,2,high school diploma,4
+3,3,3,high school diploma,3
+2,3,4,high school diploma,1
+3,3,3,NA,3
+3,3,3,Other,3
+2,4,2,GED,3
+3,3,1,NA,2
+2,3,2,NA,2
+2,3,2,high school diploma,2
+3,3,3,high school diploma,3
+3,3,3,NA,3
+3,4,4,NA,3
+3,3,2,high school diploma,3
+4,4,3,high school diploma,4
+3,4,4,high school diploma,3
+3,3,3,NA,3
+3,4,2,NA,3
+3,4,3,high school diploma,2
+3,3,3,high school diploma,3
+3,3,3,high school diploma,3
+4,4,2,high school diploma,4
+3,3,3,NA,3
+3,3,3,high school diploma,3
+3,4,4,NA,4
+3,3,2,Other,3
+2,3,3,high school diploma,2
+3,3,2,high school diploma,3
+3,3,4,high school diploma,2
+2,3,3,high school diploma,4
+3,3,3,NA,3
+1,3,1,high school diploma,2
+3,4,4,Other,4
+3,3,3,GED,3
+4,3,2,NA,2
+2,2,1,Other,1
+4,4,4,NA,4
+3,4,1,Other,2
+4,3,3,NA,3
+3,3,2,BA,3
+3,3,3,high school diploma,3
+2,3,2,NA,3
+2,4,1,NA,2
+3,4,1,high school diploma,3
+3,4,4,NA,3
+2,3,2,NA,2
+3,3,4,high school diploma,3
+2,2,2,NA,2
+3,3,2,high school diploma,3
+4,2,4,high school diploma,4
+4,3,4,Other,4
+2,2,2,NA,2
+2,3,3,NA,2
+2,3,3,high school diploma,3
+4,4,2,NA,4
+3,3,3,high school diploma,3
+3,2,2,NA,3
+3,3,3,high school diploma,3
+2,3,2,high school diploma,3
+3,4,4,NA,3
+3,3,3,high school diploma,3
+3,3,3,high school diploma,3
+4,4,1,high school diploma,3
+3,3,3,NA,3
+4,4,3,high school diploma,4
+3,3,3,high school diploma,3
+4,3,2,high school diploma,4
+3,3,3,GED,3
+2,3,3,GED,3
+4,4,1,high school diploma,4
+3,3,2,high school diploma,3
+3,3,2,high school diploma,2
+3,2,3,GED,3
+3,3,2,high school diploma,4
+3,3,2,GED,3
+3,3,2,high school diploma,3
+2,3,2,high school diploma,2
+3,3,2,Other,3
+3,4,3,NA,3
+3,3,3,NA,3
+4,2,4,high school diploma,2
+3,3,3,NA,3
+3,3,3,high school diploma,3
+3,4,3,high school diploma,3
+3,2,2,high school diploma,3
+3,3,3,high school diploma,3
+3,2,2,high school diploma,2
+3,3,3,NA,3
+2,3,3,NA,2
+3,3,3,GED,3
+3,4,3,high school diploma,3
+4,4,4,high school diploma,4
+3,3,3,high school diploma,3
+2,3,2,high school diploma,3
+3,2,3,GED,3
+3,3,2,high school diploma,3
+3,1,1,GED,1
+3,3,3,GED,3
+3,3,3,high school diploma,3
+2,3,3,GED,3
+3,2,2,GED,3
+3,3,2,GED,3
+3,2,2,high school diploma,3
+3,3,3,NA,3
+3,3,3,high school diploma,3
+3,3,2,high school diploma,3
+3,3,3,high school diploma,3
+3,3,4,GED,3
+3,3,2,NA,3
+3,3,3,high school diploma,3
+1,1,2,GED,2
+3,NA,3,GED,2
+3,2,2,high school diploma,2
+3,3,1,NA,3
+3,3,2,high school diploma,3
+3,2,1,NA,2
+3,3,3,NA,3
+2,NA,3,high school diploma,3
+3,3,2,high school diploma,3
+4,2,2,NA,4
+4,2,2,high school diploma,3
+3,4,2,NA,3
+1,3,2,NA,2
+3,3,3,NA,3
+2,3,1,high school diploma,2
+2,2,2,high school diploma,2
+3,3,3,Other,3
+3,4,1,GED,2
+2,NA,3,high school diploma,3
+4,3,2,high school diploma,4
+3,3,3,NA,2
+2,3,2,GED,2
+3,3,2,NA,3
+4,4,3,NA,3
+3,2,1,GED,3
+3,4,4,NA,3
+3,3,3,high school diploma,3
+2,3,2,Other,2
+2,2,2,high school diploma,2
+3,3,2,GED,3
+4,4,3,NA,2
+3,3,3,Other,3
+3,3,3,GED,3
+2,2,2,high school diploma,2
+4,3,2,NA,3
+3,3,2,GED,3
+3,3,3,high school diploma,3
+3,3,2,Other,2
+3,3,3,NA,3
+3,3,3,GED,3
+3,4,3,high school diploma,4
+3,3,3,Other,2
+3,4,3,high school diploma,3
+3,4,3,Other,3
+3,4,3,high school diploma,3
+4,4,3,high school diploma,4
+2,3,2,NA,3
+3,3,4,NA,3
+2,3,4,NA,3
+3,3,2,GED,2
+2,3,2,high school diploma,1
+1,4,1,NA,2
+3,2,2,high school diploma,3
+2,3,2,high school diploma,2
+3,2,2,GED,2
+3,4,2,GED,3
+3,3,2,high school diploma,3
+3,3,3,high school diploma,3
+3,2,1,GED,3
+3,2,3,high school diploma,3
+3,3,3,BA,3
+3,3,3,high school diploma,3
+2,3,2,GED,3
+4,3,4,high school diploma,4
+3,3,3,high school diploma,3
+2,4,3,GED,4
+3,3,2,high school diploma,3
+4,4,4,high school diploma,4
+4,4,1,high school diploma,3
+4,4,3,high school diploma,3
+2,2,2,high school diploma,2
+2,4,1,Other,2
+3,1,4,high school diploma,4
+2,2,2,high school diploma,2
+3,2,3,high school diploma,2
+2,3,2,NA,2
+4,4,1,BA,4
+1,3,3,NA,2
+3,2,2,Other,3
+3,3,2,high school diploma,3
+4,4,3,GED,3
+2,3,2,GED,2
+3,4,4,GED,3
+4,2,4,GED,3
+3,3,3,high school diploma,3
+3,3,3,high school diploma,3
+2,2,3,NA,3
+3,3,2,BA,3
+3,3,2,GED,3
+3,3,3,GED,3
+3,3,3,GED,3
+3,2,2,high school diploma,2
+3,3,3,GED,3
+3,2,3,GED,2
+4,3,2,high school diploma,3
+3,3,3,high school diploma,3
+3,3,2,Other,2
+2,2,2,high school diploma,2
+3,3,3,GED,3
+3,3,3,GED,3
+4,4,4,high school diploma,4
+3,3,3,high school diploma,3
+1,1,4,high school diploma,1
+3,3,3,NA,3
+3,2,3,NA,3
+2,2,2,high school diploma,2
+3,2,2,high school diploma,3
+3,4,2,high school diploma,4
+3,1,1,high school diploma,2
+2,3,3,GED,3
+3,3,4,Other,3
+3,4,1,NA,3
+3,3,2,NA,3
+2,3,2,high school diploma,2
+3,3,2,GED,3
+2,2,1,NA,3
+4,3,3,high school diploma,3
+3,3,3,NA,4
+2,2,3,GED,4
+4,4,3,high school diploma,4
+2,3,2,high school diploma,3
+3,3,1,NA,3
+3,4,3,GED,3
+2,3,1,high school diploma,3
+3,NA,3,NA,3
+3,1,2,BA,3
+3,3,2,high school diploma,3
+3,2,3,high school diploma,3
+2,3,3,high school diploma,3
+3,3,3,GED,3
+3,3,3,high school diploma,3
+2,3,2,NA,2
+3,3,3,high school diploma,3
+3,3,3,GED,3
+2,3,2,high school diploma,3
+2,2,1,high school diploma,2
+3,3,4,high school diploma,3
+3,2,3,NA,3
+4,4,4,GED,3
+3,3,2,high school diploma,3
+3,3,1,GED,3
+3,3,3,high school diploma,2
+2,4,3,GED,2
+2,2,2,GED,2
+2,2,1,GED,2
+3,3,2,GED,2
+2,2,3,NA,3
+3,3,3,GED,3
+3,3,2,GED,3
+3,2,1,GED,2
+3,3,3,GED,3
+3,3,2,NA,3
+4,3,3,NA,3
+4,1,4,high school diploma,4
+4,4,3,NA,4
+3,2,3,Other,3
+4,4,3,high school diploma,4
+4,4,4,high school diploma,4
+3,2,3,high school diploma,2
+3,3,2,high school diploma,3
+2,1,1,high school diploma,2
+3,2,4,high school diploma,2
+3,3,3,high school diploma,3
+3,2,2,high school diploma,2
+3,3,4,NA,3
+3,3,3,high school diploma,3
+2,3,4,GED,2
+4,4,4,NA,4
+4,4,4,high school diploma,4
+2,4,4,high school diploma,3
+3,3,3,GED,3
+3,2,1,high school diploma,3
+4,4,4,GED,4
+3,3,1,high school diploma,3
+2,2,2,high school diploma,2
+2,3,2,high school diploma,2
+3,3,3,GED,2
+3,2,1,GED,3
+1,4,1,Other,1
+3,3,3,GED,3
+1,3,2,Other,1
+2,3,3,high school diploma,3
+3,2,3,NA,4
+3,3,3,NA,3
+3,3,3,GED,NA
+3,3,2,NA,2
+4,4,1,NA,3
+2,3,2,high school diploma,2
+3,3,2,NA,3
+3,4,3,NA,3
+2,2,2,GED,2
+4,1,2,GED,4
+3,2,1,high school diploma,3
+2,2,2,high school diploma,2
+3,4,3,high school diploma,3
+3,4,3,high school diploma,3
+1,3,2,GED,1
+3,3,2,GED,3
+4,4,4,high school diploma,4
+3,3,2,high school diploma,3
+3,3,1,high school diploma,2
+4,4,4,BA,4
+3,3,2,high school diploma,3
+3,3,4,high school diploma,1
+2,2,2,GED,2
+4,4,4,high school diploma,4
+3,2,3,high school diploma,3
+3,2,3,NA,3
+3,3,3,high school diploma,3
+3,4,2,GED,3
+3,3,3,high school diploma,3
+4,4,4,NA,4
+3,2,3,GED,2
+3,3,3,GED,3
+3,3,3,GED,3
+3,3,2,GED,3
+3,3,2,GED,2
+2,3,2,high school diploma,NA
+3,4,3,high school diploma,3
+3,3,3,NA,3
+3,4,3,GED,3
+3,3,3,high school diploma,3
+3,2,2,high school diploma,2
+3,3,2,high school diploma,3
+3,3,1,NA,3
+3,3,3,Other,3
+2,4,2,high school diploma,3
+2,2,1,high school diploma,2
+2,3,1,NA,2
+2,2,2,NA,2
+4,3,3,high school diploma,4
+3,3,2,NA,3
+2,3,3,NA,2
+3,3,1,Other,3
+3,3,2,GED,3
+1,1,4,high school diploma,1
+2,2,2,NA,3
+3,3,3,high school diploma,3
+3,4,3,high school diploma,3
+4,4,4,high school diploma,4
+2,2,2,NA,2
+3,3,2,GED,3
+3,1,4,high school diploma,4
+3,3,2,NA,3
+3,4,3,GED,3
+3,3,3,high school diploma,3
+3,3,3,high school diploma,3
+3,3,2,GED,3
+2,3,3,high school diploma,3
+3,3,3,GED,3
+3,3,3,high school diploma,3
+3,3,3,NA,3
+4,4,4,high school diploma,4
+3,4,4,GED,3
+3,4,4,high school diploma,4
+3,3,2,GED,2
+2,3,2,GED,3
+3,4,4,GED,3
+2,2,2,high school diploma,3
+3,3,2,Other,3
+3,4,3,high school diploma,3
+3,3,3,high school diploma,3
+3,4,4,high school diploma,4
+2,3,2,GED,3
+3,3,3,high school diploma,3
+3,2,3,NA,2
+3,4,4,high school diploma,3
+3,3,3,high school diploma,3
+3,4,2,high school diploma,3
+1,2,1,NA,1
+2,2,2,Other,3
+3,3,3,high school diploma,3
+2,3,1,Other,2
+3,3,3,Other,3
+1,4,1,GED,1
+2,3,2,GED,3
+2,2,2,GED,2
+3,3,2,GED,3
+4,4,4,high school diploma,4
+3,3,2,GED,3
+2,2,1,GED,2
+3,2,2,high school diploma,3
+2,3,3,high school diploma,3
+3,3,2,NA,3
+3,4,3,high school diploma,3
+2,2,2,high school diploma,2
+3,2,3,high school diploma,3
+3,3,2,high school diploma,2
+3,3,3,GED,3
+4,4,3,NA,4
+2,2,1,high school diploma,2
+3,4,4,high school diploma,3
+3,3,2,high school diploma,3
+2,2,2,NA,2
+3,4,4,NA,2
+3,3,3,high school diploma,3
+3,4,4,GED,3
+3,3,4,GED,4
+3,4,3,NA,4
+3,3,3,high school diploma,3
+3,3,2,high school diploma,3
+3,3,3,NA,4
+2,3,3,GED,3
+NA,2,2,high school diploma,NA
+3,2,3,NA,2
+4,2,2,high school diploma,3
+3,3,2,high school diploma,3
+3,3,3,NA,3
+3,4,4,high school diploma,3
+3,3,3,NA,3
+3,3,3,high school diploma,3
+3,3,3,GED,3
+3,3,2,NA,3
+3,4,2,high school diploma,4
+3,3,3,NA,3
+3,3,3,NA,3
+2,2,3,high school diploma,3
+3,2,2,NA,3
+3,3,3,NA,2
+4,3,2,NA,3
+3,2,3,high school diploma,2
+3,3,3,high school diploma,3
+3,3,3,GED,3
+4,3,3,GED,3
+3,2,3,NA,3
+2,2,2,high school diploma,2
+2,3,3,NA,4
+3,3,1,high school diploma,3
+3,4,2,NA,3
+3,2,3,NA,4
+3,3,3,high school diploma,3
+1,3,4,high school diploma,3
+3,2,2,NA,3
+3,3,3,GED,3
+2,2,2,GED,1
+3,3,3,NA,2
+2,3,1,high school diploma,3
+3,3,2,high school diploma,2
+3,3,2,high school diploma,3
+3,2,2,GED,4
+3,4,3,high school diploma,2
+3,3,3,GED,3
+2,3,2,high school diploma,2
+4,2,2,high school diploma,3
+3,3,3,GED,3
+3,3,2,GED,3
+2,1,1,high school diploma,2
+3,2,2,NA,2
+2,3,2,NA,3
+3,3,3,high school diploma,2
+4,4,3,high school diploma,3
+3,3,2,GED,2
+4,3,3,GED,3
+4,1,1,GED,4
+3,3,3,GED,2
+2,2,3,high school diploma,2
+3,3,3,high school diploma,2
+3,2,1,GED,3
+3,2,3,NA,2
+3,3,3,GED,3
+2,3,2,NA,3
+2,3,2,high school diploma,2
+3,3,3,high school diploma,3
+3,2,2,GED,3
+3,3,2,high school diploma,3
+3,3,3,high school diploma,3
+3,3,3,GED,4
+3,3,2,high school diploma,3
+3,3,3,GED,3
+3,2,1,GED,2
+2,4,2,NA,2
+3,3,NA,Other,3
+3,3,3,GED,3
+3,3,3,high school diploma,3
+3,2,2,high school diploma,3
+4,1,1,high school diploma,3
+3,2,2,Other,2
+2,3,1,GED,2
+4,4,4,high school diploma,4
+3,3,2,GED,2
+4,3,2,Other,3
+3,3,3,high school diploma,3
+2,3,1,high school diploma,3
+3,4,1,NA,4
+2,2,1,high school diploma,2
+2,3,2,high school diploma,2
+3,3,2,NA,3
+2,3,3,GED,1
+3,3,3,NA,3
+3,4,4,GED,4
+3,2,2,NA,2
+3,4,4,NA,4
+4,3,3,high school diploma,2
+4,3,1,NA,3
+4,3,3,NA,3
+2,3,2,NA,2
+4,3,2,NA,3
+2,3,4,NA,3
+3,3,3,high school diploma,3
+3,2,2,high school diploma,3
+3,4,3,NA,3
+2,2,1,NA,1
+3,3,3,high school diploma,3
+2,4,3,GED,2
+4,4,3,high school diploma,4
+3,2,2,GED,2
+4,4,4,high school diploma,4
+3,2,2,GED,3
+3,3,2,NA,3
+2,1,4,GED,3
+3,2,1,high school diploma,3
+4,4,3,high school diploma,3
+3,3,2,NA,3
+3,3,1,GED,3
+2,2,1,high school diploma,2
+2,3,3,high school diploma,3
+3,3,1,GED,3
+2,2,1,GED,2
+3,3,2,high school diploma,3
+1,2,2,GED,1
+1,2,2,NA,2
+1,2,4,NA,1
+2,3,2,high school diploma,2
+2,4,4,high school diploma,2
+3,4,3,NA,3
+2,3,2,NA,2
+2,2,4,GED,3
+2,2,4,high school diploma,3
+2,2,2,NA,2
+2,1,2,high school diploma,2
+2,2,2,high school diploma,3
+2,3,2,high school diploma,2
+4,1,2,GED,2
+3,4,2,NA,3
+4,4,2,high school diploma,4
+3,3,2,high school diploma,3
+3,1,1,high school diploma,2
+3,2,3,NA,3
+3,3,3,high school diploma,3
+2,1,4,GED,3
+3,3,2,GED,3
+3,3,2,high school diploma,3
+4,4,2,high school diploma,4
+2,1,3,GED,4
+2,3,2,GED,2
+2,2,1,GED,2
+3,4,1,high school diploma,3
+3,3,3,GED,3
+3,4,3,NA,3
+3,3,3,Other,3
+1,2,2,GED,2
+2,1,2,high school diploma,2
+4,4,2,high school diploma,4
+4,1,1,high school diploma,1
+3,2,2,Other,2
+2,2,4,high school diploma,2
+3,4,1,high school diploma,3
+3,3,3,GED,3
+3,4,3,NA,3
+3,3,3,Other,3
+1,2,2,GED,2
+2,1,2,high school diploma,2
+4,4,2,high school diploma,4
+4,1,1,high school diploma,1
+3,2,2,Other,2
+2,2,4,high school diploma,2
+4,4,1,high school diploma,4
+3,3,2,high school diploma,3
+3,3,2,GED,3
+3,3,4,NA,3
+2,1,2,high school diploma,2
+3,2,2,high school diploma,2
+2,2,4,high school diploma,1
+2,3,3,GED,3
+4,2,1,high school diploma,2
+3,3,3,NA,3
+3,3,3,NA,3
+4,4,4,Other,4
+3,2,3,NA,2
+3,2,2,NA,3
+3,4,4,NA,4
+3,3,1,high school diploma,2
+2,3,3,high school diploma,3
+3,3,3,high school diploma,3
+3,1,NA,high school diploma,1
+3,3,3,high school diploma,3
+2,3,3,high school diploma,3
+4,4,1,high school diploma,4
+3,3,2,high school diploma,3
+4,3,2,high school diploma,3
+3,3,3,GED,3
+4,4,1,high school diploma,4
+4,NA,3,high school diploma,4
+3,4,3,NA,4
+3,2,1,high school diploma,3
+3,1,3,high school diploma,3
+4,4,3,NA,4
+3,3,3,high school diploma,3
+2,4,1,high school diploma,3
+2,3,2,NA,2
+2,3,3,high school diploma,3
+3,3,4,NA,3
+2,3,3,high school diploma,2
+4,3,3,high school diploma,3
+2,3,2,high school diploma,1
+3,3,3,GED,3
+3,3,3,high school diploma,3
+1,2,3,high school diploma,3
+3,1,2,high school diploma,1
+3,4,3,high school diploma,3
+3,3,2,high school diploma,3
+1,1,2,NA,1
+2,4,1,GED,2
+4,1,4,NA,1
+2,3,2,Other,2
+3,4,3,high school diploma,4
+3,3,3,Other,3
+3,3,4,NA,2
+2,2,2,Other,2
+2,3,2,NA,2
+3,4,3,NA,3
+4,4,2,high school diploma,3
+2,4,2,NA,1
+2,2,2,high school diploma,2
+2,2,3,high school diploma,1
+2,2,2,GED,2
+4,3,3,GED,4
+3,3,3,GED,3
+3,3,3,high school diploma,3
+3,2,2,high school diploma,2
+2,3,2,NA,2
+3,2,3,GED,2
+1,1,1,high school diploma,1
+3,4,1,high school diploma,3
+2,3,1,NA,2
+3,3,2,high school diploma,2
+3,2,4,NA,3
+3,3,3,NA,3
+3,3,3,GED,3
+2,3,2,NA,3
+3,2,2,GED,3
+4,4,3,Other,4
+3,3,1,high school diploma,3
+2,1,1,high school diploma,3
+3,1,1,Other,1
+1,2,2,high school diploma,2
+3,3,3,high school diploma,3
+3,4,3,high school diploma,3
+3,2,3,GED,3
+3,3,3,GED,3
+3,4,3,NA,3
+3,3,3,NA,3
+3,4,3,high school diploma,3
+3,4,2,NA,2
+2,3,2,GED,2
+4,4,4,high school diploma,4
+3,2,2,high school diploma,3
+3,3,4,high school diploma,1
+3,2,2,GED,2
+3,3,2,GED,3
+3,3,3,NA,3
+3,2,3,GED,2
+1,1,2,Other,1
+3,3,3,high school diploma,3
+3,3,3,Other,3
+2,2,2,GED,2
+3,3,3,GED,3
+3,3,3,high school diploma,3
+1,3,1,Other,1
+3,3,3,GED,3
+3,3,3,high school diploma,3
+3,3,3,high school diploma,3
+3,3,2,high school diploma,2
+2,2,2,GED,2
+1,4,3,high school diploma,3
+4,4,4,NA,4
+2,4,4,GED,2
+2,3,3,GED,2
+2,2,3,Other,3
+3,4,3,GED,3
+3,3,3,high school diploma,3
+3,3,2,high school diploma,3
+2,2,1,NA,2
+4,3,2,GED,3
+3,3,3,high school diploma,3
+3,3,2,BA,3
+4,4,4,high school diploma,2
+4,4,NA,GED,3
+3,2,2,NA,3
+4,3,3,GED,4
+3,3,2,high school diploma,3
+3,3,3,GED,3
+3,3,3,high school diploma,3
+3,4,3,high school diploma,3
+1,2,4,GED,2
+4,4,4,GED,4
+4,4,3,high school diploma,4
+3,3,3,high school diploma,2
+4,3,3,high school diploma,4
+4,4,4,high school diploma,4
+3,3,2,NA,3
+3,3,2,NA,3
